@@ -1,5 +1,8 @@
 {
-  "name": "tongku",
+  "name": "@loganlieou/tongku",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/loganlieou"
+  },
   "version": "1.0.0",
   "description": "high level interactive plotting library for react and next",
   "main": "dist/cjs/index.js",
